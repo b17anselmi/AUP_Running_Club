@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The AUP Running Club is a recreational sports team here at the American University of Paris. It was reinstated in Fall 2018 after a two year hiatus, and our goal is to provide students with at least one opportunity a week when they can take a break to get out, move, and socialize with other students. Our runs are laid back and catered to your goals. Students can run solo or in groups, fast or slow, whatever fits their needs.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Leadership
+#### Coordinator/President:
+![coordinator picture](/assets/cropped.jpg )
+**Jean Marie Anselmi (Marie)**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+*Contact:* a98632@aup.edu
