@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: AUP Running Club
+email: a98632@aup.edu #Try to find better hyperlink that just redirects to coordinator email.
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the offcial website of the AUP Running Club!
+  Here you'll find all you need to know about our club's events, mission, and leadership, as well as running and exercise resources specifically catered to AUP students living in Paris.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook_username: AUPRUNNING
 
 # Build settings
 markdown: kramdown
