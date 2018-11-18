@@ -37,4 +37,9 @@ For passes, you’ll need to bring an identifying document (such as your residen
 * Swim caps are required (available in the vending machines or cheap at any sports store).
 * Gentlemen: Bermuda shorts (swim trunks) are not allowed.
 * Typically coed locker rooms/showers.
+* Sometimes the locks take a 1 or 2 euro coin to lock, so be sure to have change on you the first time you check out a new location.
 * Some pools have kick boards, pull buoys, float belts, etc available if you want to switch up swimming laps.
+
+&nbsp;
+
+So next time you're looking to give your legs a break from the wear and tear of the city cobblestones, grab your suit and head to the nearest pool! Almost any type of workout you would do on the road can be done in the water, intervals, recovery, endurance, etc. Be sure to take advantage of the great opportunity Paris pools provide!
