@@ -5,6 +5,17 @@ permalink: /events/
 ---
 Here you'll find all the information about our events throughout the semester.
 
+## Upcoming Events
+
+| Date  |  Event | Time  |  Location |  Description |
+|---|---|---|---|---|
+| December 1st, 2018  | Weekend Run  | 12:00  | [Parc des Buttes-Chaumont](https://goo.gl/maps/j4bVP7742aH2)  | Weekend run in a new location!  |
+|   December 9th, 2018| [10k Bois de Vincennes](https://www.topchrono.biz/evenement_4141-Vincennes-Courir-pour-le-plaisir-)   |  9:30| [Bois de Vincennes](https://goo.gl/maps/99BrWxvd5ZA2)  | Sign up to join fellow club members for this 10k race!  |
+|  TBD | Spring 2019 Athletics Fair | TBD  | TBD  | Stop by our table at the Spring 2019 orientation athletics fair.  |
+|  TBD | Spring 2019 Club Fair  | TBD  | TBD  | Stop by our table at the Spring 2019 clubs fair.  |
+|  TBD | Spring 2019 First Meeting  |  TBD | TBD  | Come learn about the club and grab some snacks at our first meeting of the semester (no running at this meeting).  |
+|TBD|First Run!|TBD| Meeting in Combes| Come check out the club at our first run of the spring semester!|
+
 &nbsp;
 
 
