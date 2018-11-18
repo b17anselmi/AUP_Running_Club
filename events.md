@@ -7,6 +7,22 @@ Here you'll find all the information about our events throughout the semester.
 
 ## Upcoming Events
 
+<div>
+  {% for post in site.categories.event %}
+    <article>
+      <h2>
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <time datetime="{{ post.actualDate | actualDate: "%Y-%m-%d" }}">{{ post.actualDate | date_to_long_string }}</time>
+      <p>{{post.description}}</p>
+      <iframe style="float:right;" src="{{post.location}}" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+    </article>
+  {% endfor %}
+</div>
+
 | Date  |  Event | Time  |  Location |  Description |
 |---|---|---|---|---|
 | December 1st, 2018  | Weekend Run  | 12:00  | [Parc des Buttes-Chaumont](https://goo.gl/maps/j4bVP7742aH2)  | Weekend run in a new location!  |
