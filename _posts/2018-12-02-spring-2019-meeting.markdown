@@ -11,7 +11,6 @@ description: First meeting of the Spring 2019 semester (no running this week).
 
 <iframe style="float:right;" src="" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-{{ description }}
 **Date:** 01/12/18
 
 **Time:** 12:00-1:30

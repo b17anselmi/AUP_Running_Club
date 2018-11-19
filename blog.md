@@ -18,3 +18,11 @@ Take a look at our awesome blog posts! Here you'll find resources, stories from 
     {{ post.intro }} . . .
   </article>
 {% endfor %}
+
+<ul>
+  {% for blog in site.categoriesMain %}
+    <li>
+      <a href="">{{ blog.categoriesMain }}</a>
+    </li>
+  {% endfor %}
+</ul>

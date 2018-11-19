@@ -3,7 +3,8 @@ layout: post
 title:  "Cross-training: Swimming"
 date:   2018-11-18 14:15:39 +0100
 author: Jean Marie
-categories: Cross-training blog
+categories: blog
+categoriesMain: Cross-training
 image: /assets/Swimming.png
 intro: If you've been running for a while, or even just been reading about running on the internet, chances are you've heard of cross-training. It's simply when an athlete does
 ---
