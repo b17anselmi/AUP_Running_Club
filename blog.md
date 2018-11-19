@@ -14,7 +14,7 @@ Take a look at our awesome blog posts! Here you'll find resources, stories from 
     </h2>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     | {{ post.author }}
-    <img src="{{ post.image }}">
+    <img style="margin: 10px 0px 10px 0px;" src="{{ post.image }}">
     {{ post.intro }} . . .
   </article>
 {% endfor %}
