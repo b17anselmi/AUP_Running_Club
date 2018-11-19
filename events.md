@@ -8,29 +8,27 @@ Here you'll find all the information about our events throughout the semester.
 ## Upcoming Events
 
 <div>
-  {% for post in site.categories.event %}
-    <article>
-      <h2>
+  <table style="width:100%">
+    <tr>
+      <th>Event</th>
+      <th>Date</th>
+      <th>Description</th>
+      <th>Location</th>
+    </tr>
+    {% for post in site.categories.event %}
+    <tr>
+      <td><h4>
         <a href="{{ post.url }}">
           {{ post.title }}
         </a>
-      </h2>
-      <time datetime="{{ post.actualDate | actualDate: "%Y-%m-%d" }}">{{ post.actualDate | date_to_long_string }}</time>
-      <p>{{post.description}}</p>
-      <iframe style="float:right;" src="{{post.location}}" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-    </article>
+      </h4></td>
+      <td><time datetime="{{ post.actualDate | actualDate: "%Y-%m-%d" }}">{{ post.actualDate | date_to_long_string }}</time></td>
+      <td><a href="{{locationLink}}"> {{ post.locationName }}</a></td>
+      <td><p>{{post.description}}</p></td>
+    </tr>
   {% endfor %}
+  </table>
 </div>
-
-| Date  |  Event | Time  |  Location |  Description |
-|---|---|---|---|---|
-| December 1st, 2018  | Weekend Run  | 12:00  | [Parc des Buttes-Chaumont](https://goo.gl/maps/j4bVP7742aH2)  | Weekend run in a new location!  |
-|   December 9th, 2018| [10k Bois de Vincennes](https://www.topchrono.biz/evenement_4141-Vincennes-Courir-pour-le-plaisir-)   |  9:30| [Bois de Vincennes](https://goo.gl/maps/99BrWxvd5ZA2)  | Sign up to join fellow club members for this 10k race!  |
-|  TBD | Spring 2019 Athletics Fair | TBD  | TBD  | Stop by our table at the Spring 2019 orientation athletics fair.  |
-|  TBD | Spring 2019 Club Fair  | TBD  | TBD  | Stop by our table at the Spring 2019 clubs fair.  |
-|  TBD | Spring 2019 First Meeting  |  TBD | TBD  | Come learn about the club and grab some snacks at our first meeting of the semester (no running at this meeting).  |
-|TBD|First Run!|TBD| Meeting in Combes| Come check out the club at our first run of the spring semester!|
 
 &nbsp;
 
