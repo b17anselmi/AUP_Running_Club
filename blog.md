@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 Take a look at our awesome blog posts! Here you'll find resources, stories from fellow runners, tips, tricks, and much more.
 
-{% for post in site.categories.blog %}
+{% for post in site.categories.blog limit:5 %}
   <article style="margin: 30px 10px 30px 10px;">
     <h2>
       <a href="{{ post.url }}">
