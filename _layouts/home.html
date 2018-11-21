@@ -34,7 +34,7 @@ layout: default
 </div>
 </br>
 <h1>Most Recent Blog Posts</h2>
-{% for post in site.categories.blog %}
+{% for post in site.categories.blog limit:3 %}
   <article style="margin: 30px 10px 30px 10px;">
     <h2>
       <a href="{{ post.url }}">
