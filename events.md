@@ -12,8 +12,8 @@ Here you'll find all the information about our events throughout the semester.
     <tr>
       <th>Event</th>
       <th>Date</th>
-      <th>Description</th>
       <th>Location</th>
+      <th>Description</th>
     </tr>
     {% for post in site.categories.event limit:5 %}
     <tr>
