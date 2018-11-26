@@ -3,7 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img style="float:left; margin-right:15px;" src="/assets/AUP Running Club.jpg">
+&nbsp;
+
+
+<img style="float:left; margin-right:20px;" src="/assets/AUP Running Club.jpg">
+
  The AUP Running Club is a recreational sports team here at the American University of Paris. It was reinstated in Fall 2018 after a two year hiatus, and our goal is to provide students with at least one opportunity a week when they can take a break to get out, move, and socialize with other students. Our runs are laid back and catered to your goals. Students can run solo or in groups, fast or slow, whatever fits their needs.
 
 Because we're a recreational team, you do **NOT** need a medical certificate and there is no fee associated with being a part of the club. All you need to run with us is whatever clothes/gear you like to run in and a smile! The best way to stay updated about our [events]() is by checking this site, or liking our [Facebook](https://www.facebook.com/AUPRUNNING/) page.
@@ -14,7 +18,7 @@ The benefits of being a club member go beyond just getting a run in once a week 
 
 ### **Leadership**
 #### *Coordinator/President:*
-<img style="float:right;" src="/assets/cropped.jpg">
+<img style="float:right; margin-left:20px;" src="/assets/cropped.jpg">
 
 
 **Jean Marie Anselmi (Marie)**

@@ -19,10 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the offcial website of the AUP Running Club!
   Here you'll find all you need to know about our club's events, mission, and leadership, as well as running and exercise resources specifically catered to AUP students living in Paris.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "auprun" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: AUPRUNNING
-instagram_username: auprunning 
+instagram_username: auprunning
 
 # Build settings
 markdown: kramdown
