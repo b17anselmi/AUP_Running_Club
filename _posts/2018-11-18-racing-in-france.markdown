@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Racing in France"
+title:  "Recreational Racing in France"
 date:   2018-11-18 14:15:39 +0100
 author: Jean Marie
 categories: Running France blog

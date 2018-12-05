@@ -3,16 +3,30 @@ layout: page
 title: About
 permalink: /about/
 ---
+<h3 style="float:left;">Consistency</h3> <h3 style="float:left; margin-left: 25%;">Community</h3> <h3 style="float: right; margin-left: 20%;">Challenge</h3><br>
+
 &nbsp;
 
-
 <img style="float:left; margin-right:20px;" src="/assets/AUP Running Club.jpg">
-
+<div style="font-size: 19px;">
  The AUP Running Club is a recreational sports team here at the American University of Paris. It was reinstated in Fall 2018 after a two year hiatus, and our goal is to provide students with at least one opportunity a week when they can take a break to get out, move, and socialize with other students. Our runs are laid back and catered to your goals. Students can run solo or in groups, fast or slow, whatever fits their needs.
+</div>
+ &nbsp;
+
+ &nbsp;
+
+### Why Run With Us?
+
+
+The benefits of being a club member go beyond just getting a run in once a week and making some new friends. With the [Global Professional Skills](https://www.aup.edu/student-life/activities/GPS) program at AUP, you can get recognized as either an active club member and get credit in the Responsible Actors and Empowered Leaders (Leadership) category, or as an AUP athlete in the Engaged, Lifelong Learners (Personal) category. Being an active club member or a part of club leadership is a great way to make the most out of your AUP experience as a well rounded, dynamic student.
+
+
+&nbsp;
+
+### How To Join
 
 Because we're a recreational team, you do **NOT** need a medical certificate and there is no fee associated with being a part of the club. All you need to run with us is whatever clothes/gear you like to run in and a smile! The best way to stay updated about our [events]() is by checking this site, or liking our [Facebook](https://www.facebook.com/AUPRUNNING/) page.
 
-The benefits of being a club member go beyond just getting a run in once a week and making some new friends. With the [Global Professional Skills](https://www.aup.edu/student-life/activities/GPS) program at AUP, you can get recognized as either an active club member and get credit in the Responsible Actors and Empowered Leaders (Leadership) category, or as an AUP athlete in the Engaged, Lifelong Learners (Personal) category. Being an active club member or a part of club leadership is a great way to make the most out of your AUP experience as a well rounded, dynamic student.
 
 &nbsp;
 
