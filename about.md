@@ -35,7 +35,7 @@ Because we're a recreational team, you do **NOT** need a medical certificate and
 <img style="float:right; margin-left:20px;" src="/assets/cropped.jpg">
 
 
-**Jean Marie Anselmi (Marie)**
+#### **Jean Marie Anselmi (Marie)**
 
 *Contact:* <a href="mailto:a98632@aup.edu"> a98632@aup.edu </a>
 

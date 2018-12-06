@@ -7,6 +7,9 @@ locationName: Combes
 categories: Running event
 description: Stop by our table at the spring 2019 orientation athletics fair!
 ---
+Check back with us for more information on this event soon!
+
+
 **Date:** TBD
 
 **Time:** TBD
