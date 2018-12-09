@@ -25,7 +25,7 @@ The benefits of being a club member go beyond just getting a run in once a week 
 
 ### How To Join
 
-Because we're a recreational team, you do **NOT** need a medical certificate and there is no fee associated with being a part of the club. All you need to run with us is whatever clothes/gear you like to run in and a smile! The best way to stay updated about our [events]() is by checking this site, or liking our [Facebook](https://www.facebook.com/AUPRUNNING/) page.
+Because we're a recreational team, you do **NOT** need a medical certificate and there is no fee associated with being a part of the club. All you need to run with us is whatever clothes/gear you like to run in and a smile! The best way to stay updated about our events is by checking this site, or liking our [Facebook](https://www.facebook.com/AUPRUNNING/) page.
 
 
 &nbsp;

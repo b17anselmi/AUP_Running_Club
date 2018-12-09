@@ -1,0 +1,49 @@
+---
+layout: page
+title: Photos
+permalink: /photos/
+images:
+  - name: RacePic.jpg
+    title: First 10k!
+  - name: PreRace.jpg
+    title: At the starting line
+---
+
+<html>
+<head>
+<style>
+.container{
+  display:flex;
+
+}
+.item{
+  flex-wrap:wrap;
+  flex-direction: row-reverse;
+}
+div.gallery {
+  width: 100%;
+}
+
+
+div.gallery img {
+  width: 40%;
+  height: 30%;
+  margin: 5px;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+
+
+</style>
+</head>
+<body>
+  <h4>You can also check out all our photos on our <a href="https://www.facebook.com/AUPRUNNING/" target="_blank">Facebook</a> and <a href="https://www.instagram.com/auprunning/" target="_blank">Instagram</a> pages!</h4>
+    <div class="container gallery">
+      {% for image in page.images %}
+          <img class="item" src="/assets/gallery/{{image.name }}" alt="{{ image.title}}">
+      {% endfor %}
+    </div>
+
+
+</body>
+</html>
