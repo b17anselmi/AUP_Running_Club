@@ -43,5 +43,24 @@ Marie is a 2019 senior in Mathematics and Computer Science. She began running in
 
 &nbsp;
 
+&nbsp;
+
+
+<img style="float:left; margin-right:20px; width:45%;" src="/assets/gallery/RacePic.jpg">
+#### *Co-Coordinator/Vice President:*
+#### **Jae Citarella**
+
+*Contact:* <a href="mailto:a100522@aup.edu"> a100522@aup.edu </a>
+
+Jae is an AUP freshman studying Psychology. She joined our club in fall 2018 and from the start has been one of our most consistent, committed, and enthusiastic members. Over the course of the semester she went from having very few miles under her feet to running the [Courir Pour Le Plaisir](http://www.courirpourleplaisir.fr/Page6_3.php) 10 km race through the Bois de Vincennes in early December.
+
+In the spring 2019 semester she's rejoining the club, this time as an officer ready to help other students get involved and reach their running goals.
+
+&nbsp;
+
+
+&nbsp;
+
+
 > #### **NOTICE:** We're always looking for new people to help out with the club!
 >If you'd like to manage our events, website, social media, write a blog post, or contribute to the club in any way, please reach out and let us know.

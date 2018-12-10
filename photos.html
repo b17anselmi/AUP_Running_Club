@@ -14,6 +14,7 @@ images:
 <style>
 .container{
   display:flex;
+  justify-content: space-between;
 
 }
 .item{
@@ -27,23 +28,26 @@ div.gallery {
 
 div.gallery img {
   width: 40%;
-  height: 30%;
   margin: 5px;
   flex-wrap:wrap;
   justify-content: space-between;
+}
+img{
+  width:40%;
+  height:100%;
 }
 
 
 </style>
 </head>
 <body>
-  <h4>You can also check out all our photos on our <a href="https://www.facebook.com/AUPRUNNING/" target="_blank">Facebook</a> and <a href="https://www.instagram.com/auprunning/" target="_blank">Instagram</a> pages!</h4>
-    <div class="container gallery">
-      {% for image in page.images %}
-          <img class="item" src="/assets/gallery/{{image.name }}" alt="{{ image.title}}">
-      {% endfor %}
+  <h4>You can also check out all our photos on our <a href="https://www.facebook.com/AUPRUNNING/" target="_blank">Facebook</a> and <a href="https://www.instagram.com/auprunning/" target="_blank">Instagram</a> pages!</h4><br>
+<h3>Courir Pour Le Plaisir December 9th, 2018</h3>
+  <div class="container">
+    <div class="gallery">
+      <img src="/assets/gallery/RacePic.jpg" alt="Race day">
+      <img src="/assets/gallery/PreRace.jpg" alt="At the start">
     </div>
-
-
+  </div>
 </body>
 </html>
