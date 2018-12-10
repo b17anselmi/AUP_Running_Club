@@ -43,7 +43,7 @@ layout: default
     </h2>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     | {{ post.author }}
-    <img style="margin: 10px 0px 10px 0px;" src="{{ post.image }}">
+    <img style="margin: 10px 0px 10px 0px;" src="http://ac.aup.edu/~a98632/{{ post.image }}">
     {{ post.intro }} . . .
   </article>
 {% endfor %}
