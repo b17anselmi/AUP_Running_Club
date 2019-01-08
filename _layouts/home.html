@@ -20,7 +20,7 @@ layout: default
       {% for post in site.categories.event limit:3 %}
       <tr>
         <td><h4>
-          <a href="{{ post.url }}">
+          <a href="{{ post.url | relative_url }}">
             {{ post.title }}
           </a>
         </h4></td>
@@ -37,7 +37,7 @@ layout: default
 {% for post in site.categories.blog limit:3 %}
   <article style="margin: 30px 10px 30px 10px;">
     <h2>
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
     </h2>

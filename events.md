@@ -18,7 +18,7 @@ Here you'll find all the information about our events throughout the semester.
     {% for post in site.categories.event limit:5 %}
     <tr>
       <td><h4>
-        <a href="{{ post.url }}">
+        <a href="{{ post.url | relative_url }}">
           {{ post.title }}
         </a>
       </h4></td>

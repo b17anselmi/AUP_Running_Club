@@ -8,7 +8,7 @@ Take a look at our awesome blog posts! Here you'll find resources, stories from 
 {% for post in site.categories.blog limit:5 %}
   <article style="margin: 30px 10px 30px 10px;">
     <h2>
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
     </h2>
